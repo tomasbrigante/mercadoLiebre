@@ -285,3 +285,14 @@ article div.main-article{
 .form-register{
     margin: 30px 20% 0px 20%;
 }
+footer{
+    background-color: rgb(109, 107, 107);
+}
+
+footer .information{
+    font-size: 5px;
+    color: rgb(0, 0, 0);
+}
+h3{
+    color:#000
+}
